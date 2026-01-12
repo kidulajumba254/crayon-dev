@@ -6,7 +6,7 @@ A modern developer portfolio inspired by the imperfect beauty of crayons—soft 
 ##  Design Concept
 The site embodies "A child’s curiosity meets a senior engineer’s precision." It uses muted crayon hues, hand-sketched accents, and organic textures to create a unique, human-centric technical portfolio.
 
-## 🚀 Tech Stack
+##  Tech Stack
 - **Frontend**: React (19.x)
 - **Styling**: Tailwind CSS
 - **Animations**: Framer Motion
@@ -21,8 +21,7 @@ The site embodies "A child’s curiosity meets a senior engineer’s precision."
 - **Responsive Navigation**: Seamless experience across mobile, tablet, and desktop.
 - **Handwritten Testimonials**: Sticky-note style slider for professional feedback.
 
-## 👨‍💻 About Jesse
+##  About Jesse
 Jesse Kidula is an AI Developer at CompLynx Kenya, specializing in AI evaluations, data science, and full-stack solutions. Based in Nairobi, he builds software with curiosity and intentionality.
 
----
 *Engineering, drawn by curiosity.*
