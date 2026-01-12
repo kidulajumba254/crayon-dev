@@ -16,14 +16,13 @@ The site embodies "A child’s curiosity meets a senior engineer’s precision."
 - **AI Integration**: Google Gemini API (for dynamic artwork)
 
 ##  Core Features
-- **Crayon-Inspired UI**: Hand-drawn borders, wax-shading hover effects, and animated crayon strokes.
-- **Dynamic Cursor Trail**: Leaves subtle color splashes as the user explores the interface.
-- **Interactive Project Showcase**: Tilt effects and detailed case study modals.
-- **AI Magic Sketchbook**: Integration with Gemini for real-time crayon-style art generation.
-- **Responsive Navigation**: Seamless experience across mobile, tablet, and desktop.
-- <img width="1561" height="822" alt="certifications" src="https://github.com/user-attachments/assets/816a02db-5b40-4aec-8582-c5b74b39a47f" />
-
-- **Handwritten Testimonials**: Sticky-note style slider for professional feedback.
+ **Crayon-Inspired UI**: Hand-drawn borders, wax-shading hover effects, and animated crayon strokes.
+ **Dynamic Cursor Trail**: Leaves subtle color splashes as the user explores the interface.
+ **Interactive Project Showcase**: Tilt effects and detailed case study modals.
+ **AI Magic Sketchbook**: Integration with Gemini for real-time crayon-style art generation.
+ **Responsive Navigation**: Seamless experience across mobile, tablet, and desktop.
+ <img width="1561" height="822" alt="certifications" src="https://github.com/user-attachments/assets/816a02db-5b40-4aec-8582-c5b74b39a47f" />
+ **Handwritten Testimonials**: Sticky-note style slider for professional feedback.
 <img width="1299" height="657" alt="toolbox" src="https://github.com/user-attachments/assets/f49b7660-0058-4662-bbd0-1351073d231f" />
 
 ##  Getting Started
