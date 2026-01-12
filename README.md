@@ -2,9 +2,11 @@
 # CRAYON.CODE — Jesse Kidula's Developer Portfolio
 
 A modern developer portfolio inspired by the imperfect beauty of crayons—soft edges, hand-drawn strokes, and layered colors—combined with senior engineering discipline.
+<img width="1844" height="858" alt="about" src="https://github.com/user-attachments/assets/2c53d6e8-2c9e-4ab0-a097-ee0247cda625" />
 
 ##  Design Concept
 The site embodies "A child’s curiosity meets a senior engineer’s precision." It uses muted crayon hues, hand-sketched accents, and organic textures to create a unique, human-centric technical portfolio.
+<img width="1625" height="946" alt="hero-page" src="https://github.com/user-attachments/assets/c5dd592d-1639-4b44-9a67-43df44a7a0e7" />
 
 ## Tech Stack
 - **Frontend**: React (19.x)
@@ -19,7 +21,10 @@ The site embodies "A child’s curiosity meets a senior engineer’s precision."
 - **Interactive Project Showcase**: Tilt effects and detailed case study modals.
 - **AI Magic Sketchbook**: Integration with Gemini for real-time crayon-style art generation.
 - **Responsive Navigation**: Seamless experience across mobile, tablet, and desktop.
+- <img width="1561" height="822" alt="certifications" src="https://github.com/user-attachments/assets/816a02db-5b40-4aec-8582-c5b74b39a47f" />
+
 - **Handwritten Testimonials**: Sticky-note style slider for professional feedback.
+<img width="1299" height="657" alt="toolbox" src="https://github.com/user-attachments/assets/f49b7660-0058-4662-bbd0-1351073d231f" />
 
 ##  Getting Started
 
