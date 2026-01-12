@@ -29,6 +29,7 @@ The site embodies "A child’s curiosity meets a senior engineer’s precision."
  <img width="1561" height="822" alt="certifications" src="https://github.com/user-attachments/assets/816a02db-5b40-4aec-8582-c5b74b39a47f" />
  
  **Handwritten Testimonials**: Sticky-note style slider for professional feedback.
+ <img width="1419" height="737" alt="sticky-ntes" src="https://github.com/user-attachments/assets/ab429fb9-0a82-441e-b608-8e10f0c44498" />
  
 <img width="1299" height="657" alt="toolbox" src="https://github.com/user-attachments/assets/f49b7660-0058-4662-bbd0-1351073d231f" />
 
